@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="./images/Victor Correia (1).png" alt="Hello Coders" /> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0C0E9E&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Victor+Correia+;A+Full+Stack+Developer" alt="Typing SVG" /></a>
 
   
 <p><strong>Software developer student @Microverseinc</strong></p>
