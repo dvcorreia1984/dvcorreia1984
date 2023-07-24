@@ -63,7 +63,7 @@ class About extends Me {
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Moodle, H5P, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/dvcorreia1984)**<br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[dvcorreia1984](https://t.me/dvcorreia1984)**<br>
 
 <div align="center" width="50">
 
