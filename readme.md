@@ -45,9 +45,6 @@ class About extends Me {
 
 <div align="center" width="50">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dvcorreia1984&theme=discord&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dvcorreia1984?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dvcorreia1984&theme=discord&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
