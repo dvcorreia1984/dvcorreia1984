@@ -52,11 +52,11 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : {"Javascript", "C#" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "PHP", "LaTeX" },
+    "Database" : { "Sqlite" },
+    "Editors" : { "VSCode", "Visual Studio" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools" : { "Git", "Figma", "Canva", "CodePen", "Hackerrank", "Stack Overflow", "Bootstrap", "Webpack", "WordPress", "AWS", "Chrome OS", "ESLint", "Home Assistant", "Raspberry Pi", "Apache", "Nginx", "Google Chrome", "ChatGPT" }
   };
 }
 ```
