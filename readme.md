@@ -43,6 +43,11 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Moodle, H5P, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/dvcorreia1984)**<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dvcorreia1984&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center" width="50">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dvcorreia1984&theme=onedark&no-bg=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dvcorreia1984?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+</div>
