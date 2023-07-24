@@ -56,10 +56,15 @@ class About extends Me {
     "Database" : { "Sqlite" },
     "Editors" : { "VSCode", "Visual Studio" },
     "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Canva", "CodePen", "Hackerrank", "Stack Overflow", "Bootstrap", "Webpack", "WordPress", "AWS", "Chrome OS", "ESLint", "Home Assistant", "Raspberry Pi", "Apache", "Nginx", "Google Chrome", "ChatGPT" }
+    "Frameworks" : { ".Net", "Bootstrap" },
+    "Robotics" : { "Arduino", "Raspberry Pi", "ESP8266" },
+    "CMS" : { "WordPress" },
+    "Design" : { "Figma", "Canva" },
+    "Hosting" : { "AWS", "Azure" "Google Cloud"},
+    "Web servers" : { "Apache", "Nginx" },
+    "OtherTools" : { "Git", "Figma", "Canva", "CodePen", "Hackerrank", "Stack Overflow", "Webpack", "ESLint", "Home Assistant" },
   };
 }
-```
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Moodle, H5P, or anything**. <br>
