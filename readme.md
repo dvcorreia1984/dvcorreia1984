@@ -65,6 +65,7 @@ class About extends Me {
     "OtherTools" : { "Git", "Figma", "Canva", "CodePen", "Hackerrank", "Stack Overflow", "Webpack", "ESLint", "Home Assistant" },
   };
 }
+```
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Moodle, H5P, or anything**. <br>
