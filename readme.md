@@ -43,6 +43,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)  
 
 
 
@@ -62,6 +63,7 @@ class About extends Me {
     "Design" : { "Figma", "Canva" },
     "Hosting" : { "AWS", "Azure" "Google Cloud"},
     "Web servers" : { "Apache", "Nginx" },
+    "Testing" : { "Jest" },
     "OtherTools" : { "Git", "Figma", "Canva", "CodePen", "Hackerrank", "Stack Overflow", "Webpack", "ESLint", "Home Assistant" },
   };
 }
