@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0C0E9E&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Victor+Correia+;A+Full+Stack+Developer" alt="Typing SVG" /></a>
 
   
-<p><strong>Software developer student @Microverseinc</strong></p>
+<p><strong>Front End Moodle Developer</strong></p>
 
 ![Total Hits](https://komarev.com/ghpvc/?username=dvcorreia1984&style=flat&color=blue&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/dvcorreia1984-grey?style=flat&logo=telegram)](https://t.me/dvcorreia1984) <br>
